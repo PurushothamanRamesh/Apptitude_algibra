@@ -1,0 +1,88 @@
+1. Let's assume that A completes the work in 'a' days. According to the given information, A does 4/5th of the work in 3/5th of the time compared to B. This means that the ratio of their work rates is 4/5 : 1 and the ratio of their time taken is 3/5 : 1.
+
+Since the work done is directly proportional to time and inversely proportional to the number of days, we can set up the equation:
+
+(A's work rate) * (A's time) = (B's work rate) * (B's time)
+
+(4/5) * (3/5) * a = 1 * 1 * 12
+
+Simplifying the equation:
+
+12a = 25
+a = 25/12
+
+Therefore, A alone will complete the work in approximately 2.08 days.
+
+2. Let's assume that the work can be completed by 1 man in 'x' hours, 1 woman in 'y' hours, and 1 child in 'z' hours.
+
+From the given information, we can set up three equations:
+
+1/x + 3/y + 4/z = 1/96
+2/x + 8/z = 1/80
+2/x + 3/y = 1/120
+
+Solving these equations, we can find the values of x, y, and z. Then, we can find the time in which the work can be completed by 10 men and 5 women using the equation:
+
+1/(10x) + 5/y
+
+3. Let's assume the original sales of cinema tickets are 100 units and the original price of a ticket is 1 unit.
+
+After the increase in sales by 57 1/7%, the new sales become 100 + (57 1/7% of 100) = 157 1/7 units.
+
+After the increase in ticket price by 16 2/3%, the new ticket price becomes 1 + (16 2/3% of 1) = 1 2/3 units.
+
+The revenue collection can be calculated by multiplying the sales by the ticket price:
+
+Original revenue = 100 units * 1 unit = 100 units
+New revenue = 157 1/7 units * 1 2/3 units = (157 + 1/7) * (5/3) units
+
+The percentage increase in revenue collection can be calculated as:
+
+Increase in revenue = New revenue - Original revenue
+Percentage increase = (Increase in revenue / Original revenue) * 100
+
+4. The total food available initially is sufficient for 1600 soldiers for 60 days. Each soldier consumes 900 grams of food per day.
+
+Total food available = 1600 soldiers * 900 grams/day * 60 days = 86,400,000 grams
+
+After 40 days, 400 soldiers left the camp. So, the remaining number of soldiers is 1600 - 400 = 1200 soldiers.
+
+The remaining soldiers consume 1000 grams of food per day. Let's assume the number of days the remaining food will last for the remaining soldiers is 'd'.
+
+Total food consumed by remaining soldiers = 1200 soldiers * 1000 grams/day * d days = 1,200,000d grams
+
+Since the total food available equals the total food consumed, we can set up the equation:
+
+86,400,000 grams = 1,200,000d grams
+
+Solving for 'd', we get:
+
+d = 86,400,000 grams / 1,200,000 grams
+d = 72 days
+
+Therefore, the remaining food will last
+
+ for the remaining soldiers for approximately 72 days.
+
+5. Let's assume the cost price of the bicycle is 'x' rupees.
+
+According to the given information, the dealer sold the bicycle at a profit of 10%. This means the selling price is 110% of the cost price:
+
+Selling price = 1.10x
+
+If the dealer had bought the bicycle at 10% less price and sold it for Rs. 60 more, he would have gained 25%. This means the selling price would be 125% of the cost price plus Rs. 60:
+
+Selling price = (1.25x - 0.10x) + Rs. 60
+Selling price = 1.15x + Rs. 60
+
+Since the selling price remains the same, we can equate the two expressions:
+
+1.10x = 1.15x + 60
+
+Simplifying the equation, we get:
+
+0.05x = 60
+x = 60 / 0.05
+x = 1200
+
+Therefore, the cost price of the bicycle is Rs. 1200.
